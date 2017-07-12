@@ -2,6 +2,7 @@ package git;
 
 public class Ta {
 	int x= 0;
+	int y = 0;
 	public static  int sum(int x ,int y){
 		return x+y;
 	}
