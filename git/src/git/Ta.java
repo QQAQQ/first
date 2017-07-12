@@ -9,4 +9,5 @@ public class Ta {
 	public static void main(String[] args) {
 		sum(7, 8);
 	}
+	public void print(){}
 }
